@@ -1,0 +1,20 @@
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+.env.local
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# venv
+.venv
